@@ -1,0 +1,6 @@
+{
+  "ignoreDeps": [
+    "com.oracle.ojdbc6"
+  ]
+}
+
